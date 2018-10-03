@@ -35,12 +35,6 @@ while(cap.isOpened()):
     time.sleep(0.1)
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
-cv2.destroyWindow('MyWindow')
-cv2.destroyWindow('SavedWindow')
+cap.release()
 cameraCapture.release()
-
-
-
-
-
-#cv2.destroyAllWindows()
+cv2.destroyAllWindows()
