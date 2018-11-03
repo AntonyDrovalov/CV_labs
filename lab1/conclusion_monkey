@@ -1,0 +1,1123 @@
+photo 1 _DSC0047.JPG:
+time : 0.13039999999999985
+keypoints: 340
+keypoints 2: 2036
+matches: 311
+percent: 0.9147058823529411
+match distance: 1343.0 4724.0
+dx = 451.291632676199 dy = 443.8677220107695
+photo 2 _DSC0120.JPG:
+time : 0.13351499999999916
+keypoints: 340
+keypoints 2: 2134
+matches: 325
+percent: 0.9558823529411765
+match distance: 660.0 4403.0
+dx = -160.19981830541633 dy = 796.0555003296114
+photo 3 _DSC0086.JPG:
+time : 0.03106599999999915
+keypoints: 340
+keypoints 2: 480
+matches: 168
+percent: 0.49411764705882355
+match distance: 630.0 4551.0
+dx = 315.48691028146186 dy = 108.16559194677006
+photo 4 _DSC0020.JPG:
+time : 0.01838499999999499
+keypoints: 340
+keypoints 2: 289
+matches: 158
+percent: 0.4647058823529412
+match distance: 861.0 4354.0
+dx = -1000.4698601429025 dy = 300.39225168723146
+photo 5 _DSC0028.JPG:
+time : 0.025632000000001653
+keypoints: 340
+keypoints 2: 421
+matches: 169
+percent: 0.4970588235294118
+match distance: 867.0 4991.0
+dx = -264.9845882264933 dy = 729.0814784347536
+photo 6 _DSC0091.JPG:
+time : 0.004500999999997646
+keypoints: 340
+keypoints 2: 67
+matches: 52
+percent: 0.15294117647058825
+match distance: 1737.0 4661.0
+dx = 782.4717733435091 dy = 382.2722019574012
+photo 7 _DSC0069.JPG:
+time : 0.024642000000000053
+keypoints: 340
+keypoints 2: 318
+matches: 180
+percent: 0.5294117647058824
+match distance: 1214.0 4885.0
+dx = -957.1287092448076 dy = 11.732993086611259
+photo 8 _DSC0053.JPG:
+time : 0.02212499999999551
+keypoints: 340
+keypoints 2: 343
+matches: 189
+percent: 0.5558823529411765
+match distance: 801.0 4534.0
+dx = -1142.2059478628923 dy = 62.59091214445107
+photo 9 _DSC0102.JPG:
+time : 0.13772699999999816
+keypoints: 340
+keypoints 2: 2257
+matches: 326
+percent: 0.9588235294117647
+match distance: 407.0 4190.0
+dx = -1019.3701735784869 dy = 791.8652712385625
+photo 10 _DSC0005.JPG:
+time : 0.02756099999999151
+keypoints: 340
+keypoints 2: 427
+matches: 194
+percent: 0.5705882352941176
+match distance: 588.0 4642.0
+dx = 90.06113769850754 dy = 73.77276275483428
+photo 11 _DSC0099.JPG:
+time : 0.021631999999996765
+keypoints: 340
+keypoints 2: 344
+matches: 152
+percent: 0.4470588235294118
+match distance: 946.0 4835.0
+dx = -657.2007648974211 dy = 647.4548684956437
+photo 12 _DSC0024.JPG:
+time : 0.02351600000000076
+keypoints: 340
+keypoints 2: 369
+matches: 209
+percent: 0.6147058823529412
+match distance: 415.0 3949.0
+dx = -696.8129991494582 dy = -179.65906878191186
+photo 13 _DSC0027.JPG:
+time : 0.013604000000000838
+keypoints: 340
+keypoints 2: 213
+matches: 138
+percent: 0.40588235294117647
+match distance: 1276.0 3685.0
+dx = -1027.6109017469842 dy = -19.664405240383076
+photo 14 _DSC0021.JPG:
+time : 0.011206000000001382
+keypoints: 340
+keypoints 2: 181
+matches: 125
+percent: 0.36764705882352944
+match distance: 1196.0 4514.0
+dx = -1211.9394848724057 dy = 260.40433779106843
+photo 15 _DSC0030.JPG:
+time : 0.033062000000001035
+keypoints: 340
+keypoints 2: 511
+matches: 220
+percent: 0.6470588235294118
+match distance: 268.0 4915.0
+dx = -485.1164936053817 dy = 635.1016059400354
+photo 16 _DSC0012.JPG:
+time : 0.018793999999999755
+keypoints: 340
+keypoints 2: 288
+matches: 162
+percent: 0.4764705882352941
+match distance: 1712.0 4841.0
+dx = -84.33374827515854 dy = 295.17271500381776
+photo 17 _DSC0063.JPG:
+time : 0.03473999999999933
+keypoints: 340
+keypoints 2: 545
+matches: 198
+percent: 0.5823529411764706
+match distance: 742.0 4707.0
+dx = -297.7145719541579 dy = 355.35781515443637
+photo 18 _DSC0043.JPG:
+time : 0.002592000000021244
+keypoints: 340
+keypoints 2: 36
+matches: 25
+percent: 0.07352941176470588
+match distance: 1295.0 4386.0
+dx = -159.87208958544784 dy = 231.6731581444833
+photo 19 _DSC0100.JPG:
+time : 0.024210000000010723
+keypoints: 340
+keypoints 2: 376
+matches: 157
+percent: 0.46176470588235297
+match distance: 875.0 4713.0
+dx = -681.8633121113305 dy = 433.2749598611729
+photo 20 _DSC0129.JPG:
+time : 0.3251900000000205
+keypoints: 340
+keypoints 2: 5297
+matches: 340
+percent: 1.0
+match distance: 1375.0 4536.0
+dx = 90.28553760060322 dy = 216.918133118264
+photo 21 _DSC0006.JPG:
+time : 0.019760000000019318
+keypoints: 340
+keypoints 2: 303
+matches: 198
+percent: 0.5823529411764706
+match distance: 175.0 4606.0
+dx = 146.2562708439027 dy = 121.27053409606788
+photo 22 _DSC0094.JPG:
+time : 0.039196000000004005
+keypoints: 340
+keypoints 2: 608
+matches: 250
+percent: 0.7352941176470589
+match distance: 1345.0 4410.0
+dx = -701.894888151541 dy = -94.49212070854833
+photo 23 _DSC0077.JPG:
+time : 0.015116000000006125
+keypoints: 340
+keypoints 2: 240
+matches: 132
+percent: 0.38823529411764707
+match distance: 1206.0 4552.0
+dx = -772.2103693943398 dy = 31.04260241938573
+photo 24 _DSC0007.JPG:
+time : 0.03564499999998816
+keypoints: 340
+keypoints 2: 554
+matches: 246
+percent: 0.7235294117647059
+match distance: 520.0 4614.0
+dx = 94.04086495539423 dy = 211.94125394823186
+photo 25 _DSC0035.JPG:
+time : 0.03739899999999352
+keypoints: 340
+keypoints 2: 583
+matches: 228
+percent: 0.6705882352941176
+match distance: 1123.0 5038.0
+dx = -273.8796639856689 dy = 142.41727325528745
+photo 26 _DSC0060.JPG:
+time : 0.01649600000001783
+keypoints: 340
+keypoints 2: 259
+matches: 124
+percent: 0.36470588235294116
+match distance: 1317.0 4590.0
+dx = 429.589560788354 dy = 504.07639448454825
+photo 27 _DSC0137.JPG:
+time : 0.148081000000019
+keypoints: 340
+keypoints 2: 2313
+matches: 315
+percent: 0.9264705882352942
+match distance: 496.0 4998.0
+dx = -629.9655617524534 dy = 1030.8962521957274
+photo 28 _DSC0037.JPG:
+time : 0.019925000000000637
+keypoints: 340
+keypoints 2: 316
+matches: 170
+percent: 0.5
+match distance: 979.0 4968.0
+dx = -62.10796763518806 dy = 371.2050055389518
+photo 29 _DSC0095.JPG:
+time : 0.024401999999980717
+keypoints: 340
+keypoints 2: 378
+matches: 198
+percent: 0.5823529411764706
+match distance: 1326.0 4673.0
+dx = -461.2535605835758 dy = 91.80923424918751
+photo 30 _DSC0117.JPG:
+time : 0.2240250000000117
+keypoints: 340
+keypoints 2: 3501
+matches: 329
+percent: 0.9676470588235294
+match distance: 1020.0 4328.0
+dx = -445.59322412209053 dy = 1178.9342612795976
+photo 31 _DSC0039.JPG:
+time : 0.02561099999999783
+keypoints: 340
+keypoints 2: 401
+matches: 178
+percent: 0.5235294117647059
+match distance: 1022.0 4476.0
+dx = -958.3352483945525 dy = 403.3496754059156
+photo 32 _DSC0113.JPG:
+time : 0.11196100000000797
+keypoints: 340
+keypoints 2: 1909
+matches: 315
+percent: 0.9264705882352942
+match distance: 879.0 4992.0
+dx = -64.42803748198412 dy = 831.0214722942123
+photo 33 _DSC0075.JPG:
+time : 0.01589900000001876
+keypoints: 340
+keypoints 2: 247
+matches: 152
+percent: 0.4470588235294118
+match distance: 1484.0 4705.0
+dx = -476.2771542270459 dy = -247.29044027417058
+photo 34 _DSC0022.JPG:
+time : 0.017772000000007893
+keypoints: 340
+keypoints 2: 272
+matches: 186
+percent: 0.5470588235294118
+match distance: 721.0 4221.0
+dx = -971.65561653586 dy = 155.9686935873592
+photo 35 _DSC0051.JPG:
+time : 0.028812999999985323
+keypoints: 340
+keypoints 2: 446
+matches: 202
+percent: 0.5941176470588235
+match distance: 1227.0 4600.0
+dx = -979.5241461079406 dy = 219.22220903868038
+photo 36 _DSC0044.JPG:
+time : 0.03336699999999837
+keypoints: 340
+keypoints 2: 518
+matches: 223
+percent: 0.6558823529411765
+match distance: 1049.0 4557.0
+dx = -543.4746035390242 dy = 573.154326172187
+photo 37 _DSC0093.JPG:
+time : 0.031141999999988457
+keypoints: 340
+keypoints 2: 486
+matches: 234
+percent: 0.6882352941176471
+match distance: 774.0 4575.0
+dx = -1066.9493911288835 dy = 93.26814781120629
+photo 38 _DSC0014.JPG:
+time : 0.013431000000025506
+keypoints: 340
+keypoints 2: 205
+matches: 102
+percent: 0.3
+match distance: 669.0 4747.0
+dx = -136.0965592722298 dy = 614.9676511854832
+photo 39 _DSC0064.JPG:
+time : 0.042944000000034066
+keypoints: 340
+keypoints 2: 666
+matches: 215
+percent: 0.6323529411764706
+match distance: 1271.0 4704.0
+dx = -752.690137724682 dy = 235.6032342166493
+photo 40 _DSC0125.JPG:
+time : 0.6009339999999952
+keypoints: 340
+keypoints 2: 9411
+matches: 340
+percent: 1.0
+match distance: 1174.0 3881.0
+dx = 413.7299918097174 dy = 248.01165055044135
+photo 41 _DSC0003.JPG:
+time : 0.02136600000000044
+keypoints: 340
+keypoints 2: 340
+matches: 340
+percent: 1.0
+match distance: 0.0 0.0
+dx = 0.0 dy = 0.0
+photo 42 _DSC0107.JPG:
+time : 0.0685359999999946
+keypoints: 340
+keypoints 2: 1073
+matches: 302
+percent: 0.888235294117647
+match distance: 1168.0 4700.0
+dx = -1122.7912123605718 dy = 885.043005314462
+photo 43 _DSC0118.JPG:
+time : 0.2963010000000281
+keypoints: 340
+keypoints 2: 4639
+matches: 334
+percent: 0.9823529411764705
+match distance: 1064.0 4927.0
+dx = -469.21188287236896 dy = 1028.8666628814597
+photo 44 _DSC0135.JPG:
+time : 0.021325999999987744
+keypoints: 340
+keypoints 2: 334
+matches: 191
+percent: 0.5617647058823529
+match distance: 606.0 4169.0
+dx = -225.49863797436706 dy = 118.56357137929308
+photo 45 _DSC0134.JPG:
+time : 0.023190999999997075
+keypoints: 340
+keypoints 2: 360
+matches: 184
+percent: 0.5411764705882353
+match distance: 641.0 4719.0
+dx = -33.41566199009708 dy = 217.60831837872274
+photo 46 _DSC0016.JPG:
+time : 0.01843500000001086
+keypoints: 340
+keypoints 2: 289
+matches: 204
+percent: 0.6
+match distance: 446.0 4523.0
+dx = 377.4843466999621 dy = -58.65931710635914
+photo 47 _DSC0084.JPG:
+time : 0.01722800000004554
+keypoints: 340
+keypoints 2: 265
+matches: 150
+percent: 0.4411764705882353
+match distance: 1447.0 4491.0
+dx = -64.0372298533855 dy = 146.55392001678092
+photo 48 _DSC0052.JPG:
+time : 0.04396300000001929
+keypoints: 340
+keypoints 2: 683
+matches: 259
+percent: 0.7617647058823529
+match distance: 931.0 4598.0
+dx = -964.0332013981849 dy = 158.56551105899098
+photo 49 _DSC0018.JPG:
+time : 0.018382999999971616
+keypoints: 340
+keypoints 2: 289
+matches: 163
+percent: 0.47941176470588237
+match distance: 743.0 4662.0
+dx = -726.5851971583381 dy = 255.397067973523
+photo 50 _DSC0098.JPG:
+time : 0.13761299999998755
+keypoints: 340
+keypoints 2: 2203
+matches: 316
+percent: 0.9294117647058824
+match distance: 1201.0 4869.0
+dx = -379.36756638863585 dy = 509.1061823507732
+photo 51 _DSC0111.JPG:
+time : 0.10534400000000232
+keypoints: 340
+keypoints 2: 1643
+matches: 311
+percent: 0.9147058823529411
+match distance: 560.0 4727.0
+dx = -809.9501551974706 dy = 834.792653253845
+photo 52 _DSC0040.JPG:
+time : 0.02049899999997251
+keypoints: 340
+keypoints 2: 316
+matches: 144
+percent: 0.4235294117647059
+match distance: 1104.0 4646.0
+dx = -451.6155011311273 dy = 436.1174476617855
+photo 53 _DSC0065.JPG:
+time : 0.023698000000024422
+keypoints: 340
+keypoints 2: 371
+matches: 173
+percent: 0.5088235294117647
+match distance: 1193.0 5040.0
+dx = -743.7241783982811 dy = 462.75983878384113
+photo 54 _DSC0074.JPG:
+time : 0.017985000000010132
+keypoints: 340
+keypoints 2: 279
+matches: 175
+percent: 0.5147058823529411
+match distance: 1207.0 4867.0
+dx = -280.64541317776707 dy = -208.54275120496504
+photo 55 _DSC0008.JPG:
+time : 0.038087000000018634
+keypoints: 340
+keypoints 2: 590
+matches: 238
+percent: 0.7
+match distance: 778.0 4766.0
+dx = -118.82067578392753 dy = 145.24823519705774
+photo 56 _DSC0132.JPG:
+time : 0.19111099999997805
+keypoints: 340
+keypoints 2: 3218
+matches: 334
+percent: 0.9823529411764705
+match distance: 891.0 4196.0
+dx = 166.9253393038009 dy = 289.41803358275547
+photo 57 _DSC0116.JPG:
+time : 0.35705500000000256
+keypoints: 340
+keypoints 2: 5589
+matches: 335
+percent: 0.9852941176470589
+match distance: 1224.0 5098.0
+dx = -375.2429890848382 dy = 900.103483121417
+photo 58 _DSC0112.JPG:
+time : 0.1680390000000216
+keypoints: 340
+keypoints 2: 2628
+matches: 320
+percent: 0.9411764705882353
+match distance: 654.0 4651.0
+dx = -237.74480710169223 dy = 946.6656950986228
+photo 59 _DSC0062.JPG:
+time : 0.021707999999989624
+keypoints: 340
+keypoints 2: 339
+matches: 143
+percent: 0.42058823529411765
+match distance: 1108.0 4260.0
+dx = 157.5696161876799 dy = 681.6655306404216
+photo 60 _DSC0050.JPG:
+time : 0.0680189999999925
+keypoints: 340
+keypoints 2: 1062
+matches: 285
+percent: 0.8382352941176471
+match distance: 1178.0 4941.0
+dx = -721.7045533905082 dy = 229.3830108911343
+photo 61 _DSC0076.JPG:
+time : 0.01725600000003169
+keypoints: 340
+keypoints 2: 274
+matches: 148
+percent: 0.43529411764705883
+match distance: 1475.0 4517.0
+dx = -454.80129717920613 dy = 589.410141766271
+photo 62 _DSC0010.JPG:
+time : 0.010340999999982614
+keypoints: 340
+keypoints 2: 158
+matches: 101
+percent: 0.29705882352941176
+match distance: 1535.0 4491.0
+dx = -14.746310770201035 dy = 429.4360869100178
+photo 63 _DSC0017.JPG:
+time : 0.018586000000027525
+keypoints: 340
+keypoints 2: 285
+matches: 244
+percent: 0.7176470588235294
+match distance: 48.0 3940.0
+dx = -42.19795762761828 dy = -91.24344513128426
+photo 64 _DSC0131.JPG:
+time : 0.32323900000000094
+keypoints: 340
+keypoints 2: 5094
+matches: 336
+percent: 0.9882352941176471
+match distance: 951.0 4737.0
+dx = 35.23564047725199 dy = -430.6304850300942
+photo 65 _DSC0072.JPG:
+time : 0.01650500000005195
+keypoints: 340
+keypoints 2: 253
+matches: 149
+percent: 0.43823529411764706
+match distance: 1411.0 4689.0
+dx = -358.5771702418517 dy = 73.5242134656553
+photo 66 _DSC0124.JPG:
+time : 0.1519230000000107
+keypoints: 340
+keypoints 2: 2384
+matches: 329
+percent: 0.9676470588235294
+match distance: 1821.0 4466.0
+dx = 436.76351835941364 dy = 524.919381007478
+photo 67 _DSC0055.JPG:
+time : 0.021683999999993375
+keypoints: 340
+keypoints 2: 334
+matches: 189
+percent: 0.5558823529411765
+match distance: 718.0 4632.0
+dx = -1051.6537478595772 dy = 7.1261617442175975
+photo 68 _DSC0078.JPG:
+time : 0.004932999999994081
+keypoints: 340
+keypoints 2: 74
+matches: 43
+percent: 0.1264705882352941
+match distance: 1328.0 3914.0
+dx = -293.7232297766948 dy = 973.2361269054807
+photo 69 _DSC0108.JPG:
+time : 0.040037999999981366
+keypoints: 340
+keypoints 2: 622
+matches: 207
+percent: 0.6088235294117647
+match distance: 468.0 4670.0
+dx = -1100.1966862412467 dy = 1072.3706488161788
+photo 70 _DSC0114.JPG:
+time : 0.19076899999998886
+keypoints: 340
+keypoints 2: 2982
+matches: 333
+percent: 0.9794117647058823
+match distance: 1446.0 4789.0
+dx = -60.33335901869077 dy = 844.0793804924056
+photo 71 _DSC0097.JPG:
+time : 0.10117099999996526
+keypoints: 340
+keypoints 2: 1587
+matches: 303
+percent: 0.8911764705882353
+match distance: 1226.0 4910.0
+dx = -443.5659844979525 dy = 355.2275059513406
+photo 72 _DSC0033.JPG:
+time : 0.01784200000003011
+keypoints: 340
+keypoints 2: 278
+matches: 167
+percent: 0.49117647058823527
+match distance: 619.0 4491.0
+dx = -229.12678217232065 dy = 269.75880953304045
+photo 73 _DSC0123.JPG:
+time : 0.16157799999996314
+keypoints: 340
+keypoints 2: 2525
+matches: 334
+percent: 0.9823529411764705
+match distance: 1103.0 4709.0
+dx = 404.1052086367911 dy = 205.9271986677984
+photo 74 _DSC0023.JPG:
+time : 0.02579800000000887
+keypoints: 340
+keypoints 2: 398
+matches: 225
+percent: 0.6617647058823529
+match distance: 624.0 4110.0
+dx = -1266.1522254233453 dy = -185.209248719651
+photo 75 _DSC0103.JPG:
+time : 0.09107599999992999
+keypoints: 340
+keypoints 2: 1427
+matches: 317
+percent: 0.9323529411764706
+match distance: 557.0 4514.0
+dx = -764.6716680254301 dy = 1005.9183876966938
+photo 76 _DSC0058.JPG:
+time : 0.01783499999999094
+keypoints: 340
+keypoints 2: 278
+matches: 144
+percent: 0.4235294117647059
+match distance: 1259.0 4491.0
+dx = -39.63105112044332 dy = 478.385413736738
+photo 77 _DSC0041.JPG:
+time : 0.02312300000005507
+keypoints: 340
+keypoints 2: 369
+matches: 171
+percent: 0.5029411764705882
+match distance: 975.0 4624.0
+dx = -952.6967919336141 dy = 692.805133561375
+photo 78 _DSC0015.JPG:
+time : 0.02204899999992449
+keypoints: 340
+keypoints 2: 343
+matches: 170
+percent: 0.5
+match distance: 1159.0 4313.0
+dx = 584.4086498246759 dy = 271.26737216589004
+photo 79 _DSC0068.JPG:
+time : 0.007665999999971973
+keypoints: 340
+keypoints 2: 119
+matches: 80
+percent: 0.23529411764705882
+match distance: 1146.0 4370.0
+dx = -785.8580186347001 dy = 163.37651181261072
+photo 80 _DSC0034.JPG:
+time : 0.034155000000055225
+keypoints: 340
+keypoints 2: 533
+matches: 232
+percent: 0.6823529411764706
+match distance: 687.0 4780.0
+dx = -637.9373226033156 dy = -43.89015983730587
+photo 81 _DSC0136.JPG:
+time : 0.1176829999999427
+keypoints: 340
+keypoints 2: 1837
+matches: 316
+percent: 0.9294117647058824
+match distance: 664.0 4987.0
+dx = -219.4825876553498 dy = 1016.1675842979471
+photo 82 _DSC0090.JPG:
+time : 0.01737500000001546
+keypoints: 340
+keypoints 2: 267
+matches: 119
+percent: 0.35
+match distance: 1165.0 4479.0
+dx = 7.15113260084695 dy = 532.935603487158
+photo 83 _DSC0105.JPG:
+time : 0.13633900000002086
+keypoints: 340
+keypoints 2: 2130
+matches: 327
+percent: 0.961764705882353
+match distance: 389.0 4630.0
+dx = -1101.7895902476168 dy = 1062.611916192241
+photo 84 _DSC0087.JPG:
+time : 0.0092059999999492
+keypoints: 340
+keypoints 2: 141
+matches: 68
+percent: 0.2
+match distance: 1314.0 4049.0
+dx = 380.9429145784343 dy = 81.38117504732577
+photo 85 _DSC0073.JPG:
+time : 0.009658000000058564
+keypoints: 340
+keypoints 2: 149
+matches: 98
+percent: 0.28823529411764703
+match distance: 1070.0 4728.0
+dx = -749.6504046609173 dy = -53.821888449782136
+photo 86 _DSC0038.JPG:
+time : 0.009223000000019965
+keypoints: 340
+keypoints 2: 145
+matches: 115
+percent: 0.3382352941176471
+match distance: 986.0 4823.0
+dx = -1260.8812575891582 dy = 260.7269194535261
+photo 87 _DSC0059.JPG:
+time : 0.015595000000075743
+keypoints: 340
+keypoints 2: 244
+matches: 122
+percent: 0.3588235294117647
+match distance: 953.0 5010.0
+dx = 235.89025269731837 dy = 511.031216052505
+photo 88 _DSC0031.JPG:
+time : 0.013871999999992113
+keypoints: 340
+keypoints 2: 215
+matches: 104
+percent: 0.3058823529411765
+match distance: 506.0 4496.0
+dx = -760.1152256163298 dy = 356.3608067106777
+photo 89 _DSC0122.JPG:
+time : 0.5328349999999773
+keypoints: 340
+keypoints 2: 8354
+matches: 340
+percent: 1.0
+match distance: 1265.0 3951.0
+dx = 306.41849933421145 dy = -291.1593487959217
+photo 90 _DSC0067.JPG:
+time : 0.007283999999913249
+keypoints: 340
+keypoints 2: 110
+matches: 88
+percent: 0.25882352941176473
+match distance: 1643.0 4742.0
+dx = 593.8493547082585 dy = 405.053803249094
+photo 91 _DSC0139.JPG:
+time : 0.08066600000006474
+keypoints: 340
+keypoints 2: 1259
+matches: 284
+percent: 0.8352941176470589
+match distance: 871.0 4583.0
+dx = 67.11031217039931 dy = 964.2295416768653
+photo 92 _DSC0019.JPG:
+time : 0.02366899999992711
+keypoints: 340
+keypoints 2: 370
+matches: 197
+percent: 0.5794117647058824
+match distance: 587.0 4163.0
+dx = -520.3333724999845 dy = 1.0145062736182808
+photo 93 _DSC0089.JPG:
+time : 0.022803000000067186
+keypoints: 340
+keypoints 2: 361
+matches: 175
+percent: 0.5147058823529411
+match distance: 1353.0 5062.0
+dx = 127.74204856719643 dy = 284.4219202241468
+photo 94 _DSC0133.JPG:
+time : 0.20596100000000206
+keypoints: 340
+keypoints 2: 3238
+matches: 335
+percent: 0.9852941176470589
+match distance: 1161.0 4635.0
+dx = 328.89323778779294 dy = 139.34005424905058
+photo 95 _DSC0045.JPG:
+time : 0.061112999999977546
+keypoints: 340
+keypoints 2: 954
+matches: 249
+percent: 0.7323529411764705
+match distance: 1226.0 4751.0
+dx = -209.38883198785038 dy = 380.31137120017206
+photo 96 _DSC0128.JPG:
+time : 0.5591440000000603
+keypoints: 340
+keypoints 2: 9081
+matches: 340
+percent: 1.0
+match distance: 1365.0 4569.0
+dx = 200.1660141182665 dy = 167.66009836435546
+photo 97 _DSC0025.JPG:
+time : 0.026268999999956577
+keypoints: 340
+keypoints 2: 408
+matches: 212
+percent: 0.6235294117647059
+match distance: 671.0 4528.0
+dx = -960.5670234081792 dy = 84.30647553088625
+photo 98 _DSC0079.JPG:
+time : 0.01658399999996618
+keypoints: 340
+keypoints 2: 254
+matches: 133
+percent: 0.3911764705882353
+match distance: 1058.0 4903.0
+dx = -909.9231163544366 dy = 345.4981167254816
+photo 99 _DSC0002.JPG:
+time : 0.02726400000005924
+keypoints: 340
+keypoints 2: 428
+matches: 224
+percent: 0.6588235294117647
+match distance: 263.0 4532.0
+dx = 25.70976154983805 dy = -82.92201615176805
+photo 100 _DSC0106.JPG:
+time : 0.07064399999990201
+keypoints: 340
+keypoints 2: 1099
+matches: 300
+percent: 0.8823529411764706
+match distance: 1149.0 4775.0
+dx = -1049.7528005721563 dy = 842.9040240348984
+photo 101 _DSC0121.JPG:
+time : 0.5579350000000431
+keypoints: 340
+keypoints 2: 8804
+matches: 340
+percent: 1.0
+match distance: 1290.0 3770.0
+dx = 203.67901824242404 dy = 107.03284393586523
+photo 102 _DSC0140.JPG:
+time : 0.10766100000000733
+keypoints: 340
+keypoints 2: 1689
+matches: 318
+percent: 0.9352941176470588
+match distance: 761.0 4429.0
+dx = 259.8836333540853 dy = 877.8570245109539
+photo 103 _DSC0011.JPG:
+time : 0.014679999999998472
+keypoints: 340
+keypoints 2: 224
+matches: 132
+percent: 0.38823529411764707
+match distance: 1544.0 4511.0
+dx = -644.9077475892398 dy = 458.7458331228304
+photo 104 _DSC0071.JPG:
+time : 0.009217000000035114
+keypoints: 340
+keypoints 2: 153
+matches: 83
+percent: 0.24411764705882352
+match distance: 961.0 4825.0
+dx = -382.04443698459204 dy = 597.2132087757384
+photo 105 _DSC0048.JPG:
+time : 0.114325000000008
+keypoints: 340
+keypoints 2: 1795
+matches: 315
+percent: 0.9264705882352942
+match distance: 1108.0 4758.0
+dx = 139.27893074606936 dy = 70.71349621691047
+photo 106 _DSC0101.JPG:
+time : 0.1240940000000137
+keypoints: 340
+keypoints 2: 1939
+matches: 329
+percent: 0.9676470588235294
+match distance: 259.0 4532.0
+dx = -1129.027011111824 dy = 790.0757008541933
+photo 107 _DSC0004.JPG:
+time : 0.016444999999976062
+keypoints: 340
+keypoints 2: 253
+matches: 150
+percent: 0.4411764705882353
+match distance: 375.0 4145.0
+dx = 388.84792381983743 dy = 245.54982941411754
+photo 108 _DSC0119.JPG:
+time : 0.1343180000000075
+keypoints: 340
+keypoints 2: 2109
+matches: 329
+percent: 0.9676470588235294
+match distance: 520.0 4682.0
+dx = -945.9190336690301 dy = 1118.73400943739
+photo 109 _DSC0029.JPG:
+time : 0.028597999999988133
+keypoints: 340
+keypoints 2: 449
+matches: 187
+percent: 0.55
+match distance: 254.0 4638.0
+dx = -437.3208959242877 dy = 323.6710271248853
+photo 110 _DSC0127.JPG:
+time : 0.4290839999999889
+keypoints: 340
+keypoints 2: 6751
+matches: 340
+percent: 1.0
+match distance: 1421.0 3712.0
+dx = -184.63120536701513 dy = 76.47403638456922
+photo 111 _DSC0126.JPG:
+time : 0.6378830000001017
+keypoints: 340
+keypoints 2: 10013
+matches: 340
+percent: 1.0
+match distance: 1341.0 4013.0
+dx = -716.9472731042904 dy = 26.970086722572432
+photo 112 _DSC0049.JPG:
+time : 0.07193800000004558
+keypoints: 340
+keypoints 2: 1124
+matches: 288
+percent: 0.8470588235294118
+match distance: 1422.0 4607.0
+dx = -568.2560290200256 dy = 207.04801589202407
+photo 113 _DSC0104.JPG:
+time : 0.13463999999999032
+keypoints: 340
+keypoints 2: 2102
+matches: 321
+percent: 0.9441176470588235
+match distance: 605.0 4540.0
+dx = -441.58302670514763 dy = 797.2244328539459
+photo 114 _DSC0109.JPG:
+time : 0.12261599999999362
+keypoints: 340
+keypoints 2: 1932
+matches: 311
+percent: 0.9147058823529411
+match distance: 415.0 4549.0
+dx = -477.5597383059883 dy = 782.1100691173156
+photo 115 _DSC0001.JPG:
+time : 0.016211999999995896
+keypoints: 340
+keypoints 2: 250
+matches: 184
+percent: 0.5411764705882353
+match distance: 471.0 4822.0
+dx = 1.4768550522749138 dy = 201.64555161779072
+photo 116 _DSC0056.JPG:
+time : 0.037471999999979744
+keypoints: 340
+keypoints 2: 508
+matches: 229
+percent: 0.6735294117647059
+match distance: 1150.0 4533.0
+dx = -450.9643100386918 dy = 239.54055736518785
+photo 117 _DSC0092.JPG:
+time : 0.02631300000007286
+keypoints: 340
+keypoints 2: 431
+matches: 216
+percent: 0.6352941176470588
+match distance: 766.0 4638.0
+dx = -980.0979867536632 dy = -81.7063872989047
+photo 118 _DSC0083.JPG:
+time : 0.00530900000001111
+keypoints: 340
+keypoints 2: 78
+matches: 61
+percent: 0.17941176470588235
+match distance: 1060.0 4125.0
+dx = -699.5300250621583 dy = 577.0561963963114
+photo 119 _DSC0081.JPG:
+time : 0.031742000000008375
+keypoints: 340
+keypoints 2: 492
+matches: 239
+percent: 0.7029411764705882
+match distance: 492.0 4917.0
+dx = -669.7738291349553 dy = 297.73603102338757
+photo 120 _DSC0110.JPG:
+time : 0.1377390000000105
+keypoints: 340
+keypoints 2: 2237
+matches: 328
+percent: 0.9647058823529412
+match distance: 497.0 4672.0
+dx = -1251.8758926108728 dy = 896.1362148176677
+photo 121 _DSC0115.JPG:
+time : 0.2585719999999583
+keypoints: 340
+keypoints 2: 4048
+matches: 332
+percent: 0.9764705882352941
+match distance: 1274.0 4564.0
+dx = -264.22522562377776 dy = 959.935143369809
+photo 122 _DSC0032.JPG:
+time : 0.01795500000002903
+keypoints: 340
+keypoints 2: 279
+matches: 150
+percent: 0.4411764705882353
+match distance: 809.0 4982.0
+dx = -286.7851271350853 dy = 633.9825006142764
+photo 123 _DSC0138.JPG:
+time : 0.1233630000000403
+keypoints: 340
+keypoints 2: 1926
+matches: 318
+percent: 0.9352941176470588
+match distance: 780.0 4650.0
+dx = -452.38370731133114 dy = 823.0253374608287
+photo 124 _DSC0080.JPG:
+time : 0.022403000000053908
+keypoints: 340
+keypoints 2: 347
+matches: 127
+percent: 0.3735294117647059
+match distance: 1169.0 4646.0
+dx = -275.7887001432066 dy = 877.5527886959269
+photo 125 _DSC0036.JPG:
+time : 0.035219999999981155
+keypoints: 340
+keypoints 2: 554
+matches: 223
+percent: 0.6558823529411765
+match distance: 1120.0 4819.0
+dx = -530.7188870083075 dy = 220.14954972217538
+photo 126 _DSC0009.JPG:
+time : 0.015642000000070766
+keypoints: 340
+keypoints 2: 243
+matches: 157
+percent: 0.46176470588235297
+match distance: 968.0 4686.0
+dx = 280.7264203875211 dy = 166.1131571950475
+photo 127 _DSC0061.JPG:
+time : 0.01988600000004226
+keypoints: 340
+keypoints 2: 310
+matches: 129
+percent: 0.37941176470588234
+match distance: 825.0 4460.0
+dx = 424.83832550338366 dy = 777.959048301219
+photo 128 _DSC0026.JPG:
+time : 0.016361000000074455
+keypoints: 340
+keypoints 2: 257
+matches: 163
+percent: 0.47941176470588237
+match distance: 871.0 4129.0
+dx = -1155.0124090451839 dy = -54.74900984009946
+photo 129 _DSC0013.JPG:
+time : 0.006516999999917061
+keypoints: 340
+keypoints 2: 109
+matches: 80
+percent: 0.23529411764705882
+match distance: 1214.0 4194.0
+dx = 285.3787559513394 dy = 215.90464414708754
+photo 130 _DSC0082.JPG:
+time : 0.012651000000005297
+keypoints: 340
+keypoints 2: 197
+matches: 121
+percent: 0.3558823529411765
+match distance: 1236.0 4592.0
+dx = -1283.9904980618196 dy = 619.687892273897
+photo 131 _DSC0046.JPG:
+time : 0.023628000000030625
+keypoints: 340
+keypoints 2: 370
+matches: 179
+percent: 0.5264705882352941
+match distance: 1174.0 4940.0
+dx = -375.3512044982424 dy = 531.9191505541294
+photo 132 _DSC0057.JPG:
+time : 0.0308069999999816
+keypoints: 340
+keypoints 2: 477
+matches: 221
+percent: 0.65
+match distance: 1074.0 4621.0
+dx = 77.00367547328165 dy = 429.56929179125837
+photo 133 _DSC0088.JPG:
+time : 0.020432999999911772
+keypoints: 340
+keypoints 2: 318
+matches: 139
+percent: 0.4088235294117647
+match distance: 1163.0 4842.0
+dx = -217.13906605191664 dy = 274.74177720679904
+photo 134 _DSC0070.JPG:
+time : 0.026698000000010325
+keypoints: 340
+keypoints 2: 418
+matches: 188
+percent: 0.5529411764705883
+match distance: 994.0 4524.0
+dx = -582.0644751134603 dy = 398.626590461849
+photo 135 _DSC0130.JPG:
+time : 0.2436560000001009
+keypoints: 340
+keypoints 2: 3807
+matches: 339
+percent: 0.9970588235294118
+match distance: 1265.0 4164.0
+dx = 669.4098470911229 dy = -128.9590146567375
+photo 136 _DSC0054.JPG:
+time : 0.023993000000018583
+keypoints: 340
+keypoints 2: 388
+matches: 211
+percent: 0.6205882352941177
+match distance: 521.0 4441.0
+dx = -1186.0227753666402 dy = -29.040310715212172
+photo 137 _DSC0042.JPG:
+time : 0.02966700000001765
+keypoints: 340
+keypoints 2: 460
+matches: 201
+percent: 0.5911764705882353
+match distance: 1405.0 4560.0
+dx = -139.07874318778954 dy = 261.8007025365025
+photo 138 _DSC0096.JPG:
+time : 0.08128599999997732
+keypoints: 340
+keypoints 2: 1263
+matches: 298
+percent: 0.8764705882352941
+match distance: 1118.0 4962.0
+dx = -719.6360813261861 dy = 171.75732014000346
+photo 139 _DSC0066.JPG:
+time : 0.023248999999964326
+keypoints: 340
+keypoints 2: 408
+matches: 168
+percent: 0.49411764705882355
+match distance: 753.0 4391.0
+dx = -564.1995846617453 dy = 843.367807522942
+photo 140 _DSC0085.JPG:
+time : 0.014377999999965141
+keypoints: 340
+keypoints 2: 220
+matches: 132
+percent: 0.38823529411764707
+match distance: 538.0 4279.0
+dx = -98.16433797418108 dy = 296.5667998533197
+Conclusion: 
+percent: 0.6369747899159663
+seconds per 1 Mb: 1.737169157386053e-05
